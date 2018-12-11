@@ -44,12 +44,7 @@
     "ember-cli-dotenv": "^1.2.0",
     "ember-cli-bootstrap-4": "^0.2.1",
     "bootstrap": "^4.0.0",
-    "ember-browserify": "^1.2.0",
-    "siemens-ember-shared": "git+https://npm:Vn2-L8x4hR98UvhndKQ1@gitlab-dev2.mindsphere.siemens.com/dig-cp/portal-framework-components.git#2.2.14",
-    "siemens-style": "git+https://npm:Vn2-L8x4hR98UvhndKQ1@gitlab-dev2.mindsphere.siemens.com/dig-cp/siemens-style#master",
-    "siemens-addon-footer": "git+https://npm:Vn2-L8x4hR98UvhndKQ1@gitlab-dev2.mindsphere.siemens.com/dig-cp/siemens-addon-footer.git#0.5.0",
-    "siemens-addon-header": "git+https://npm:Vn2-L8x4hR98UvhndKQ1@gitlab-dev2.mindsphere.siemens.com/dig-cp/siemens-addon-header.git#0.1.0"
-
+    "ember-browserify": "^1.2.0"
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
