@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "catalog"]
+	url = https://gitlab-dev2.mindsphere.siemens.com/dig-svc-desk/help-desk-ember-shared.git
+	fetch = +refs/heads/*:refs/remotes/catalog/*
+[remote "cat"]
+	url = https://github.com/ragni/cat.git
+	fetch = +refs/heads/*:refs/remotes/cat/*

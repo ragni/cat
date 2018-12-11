@@ -1,0 +1,20 @@
+// @import 'siemens-styles';
+// siemens-addon-styles requires a variable $ui-text-regular to contain a reference to a font family
+// normally this one is provided by siemens-addon-styles but we are on a to outdated version
+// TODO: remove this as soon as we upgrade siemens-addon-styles
+$ui-text-regular: 'SFUIText-Regular';
+$ui-text-medium: 'SFUIText-Medium';
+$ui-text-light: 'SFUIText-Light';
+$ui-text-bold: 'SFUIText-Bold';
+
+@import 'siemens-header';
+@import 'siemens-footer';
+@import 'node_modules/siemens-style/styles/app';
+@import 'catalog-creation-header';
+@import 'catalog-creation-nav-bar';
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
